@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    padding: 0%;
+    margin: 0%;
+    background-color: aqua;
+    background-image: url(../images/the-simpsons-25th-anniversary.jpg);
+    background-size: cover;
+    color: rgb(197, 197, 197);
+}
+
+.caja1{
+    height: 25rem;
+    background-color: rgba(0, 0, 0, 0.733);
+    
+  
+}
+
+.caja2{
+    background-color: rgba(2, 2, 0, 0.733);
+}
+
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.712);
+}
+
+.subcontainer1{
+    margin: 5px;
+}
+
+.subcontainer2{
+    margin: 5px;
+}
+
+.subcontainer3{
+    margin: 5px;
+}
+
+.subcontainer4{
+    margin: 5px;
+}
+
+.cajaA{
+    background-color: #ffdb0f70;
+}
+
+.btn-success{
+    background-color: #ffd90f;
+}
